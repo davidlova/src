@@ -9,9 +9,9 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = 24490919
 API_HASH = "d1b3b15126c47dd4cb491553ee1db910"
-BOT_TOKEN = "6096499193:AAFyYO40peA2V9pl-PwY-1r-B_-Ue-vmxmc"
+BOT_TOKEN = "6349275069:AAHK2HGHZMiWasUM2V3CwXOVLmRB4doZJug"
 SESSION = "BQC6JkIkHIf9kfu-QdCKLfGZpi8gnxgY_IyjkTBiKXNqRuVQyXG0bV_LRh_HFgj91EEkMU0sGlLC5T7N9NVzlfCfMG8025sqEwbJ8GoDLUV0eAegMvVFzmjNReePmgnoNwfRpeMFbMv4V26a-AZIGRUJsQr2S8VAmFoBY-zxvkv8u6Hs4a5p-P_PXyutZDPSNn-bfrrqVxpGCi8QpqQjPaCfo-xnDWExz4TWFIJ6X6mZ8s-kRCNvmrV0pGvLFojD4tqUAA54A2qI0dv04GlcPumYPiNCGQPCYQdFY4LiRHKPkjBHh0xWsRv7SN2pHrRxd1-_3o1QbZPYjUzyH_PavVAOAAAAAXTGvwYA"
-FORCESUB = "amthespy"
+FORCESUB = "batchingupdate"
 AUTH = 5842877813
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
